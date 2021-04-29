@@ -1,0 +1,14 @@
+schema{
+  query: Query
+}
+
+type Query{
+  allProperty: [Property]
+}
+
+type Property {
+	id: ID!
+	name: String!
+	address: String!
+	event: String
+}

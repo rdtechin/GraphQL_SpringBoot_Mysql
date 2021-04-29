@@ -1,0 +1,8 @@
+
+spring:
+  datasource: 
+     url: jdbc:mysql://localhost:3306/graphql
+     username: root
+     password: test1234
+server:
+  port : 8080
