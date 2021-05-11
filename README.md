@@ -3,7 +3,7 @@ GraphQL+SpringBoot+Mysql
 
 If you are looking to explore the Deployment of the application, please go to the website:
 
-
+https://rdtech.in/
 
 This repository contains the files required for the Application deployment. The overview of the application is as follows:
 
@@ -14,3 +14,4 @@ This repository only contains the back-end of the Property Application. Front-en
 
 Kindly, refer to the article mentioned below :
 
+https://www.linkedin.com/pulse/creating-api-graphql-springboot-mysql-database-dhruv-sahu/?published=t
