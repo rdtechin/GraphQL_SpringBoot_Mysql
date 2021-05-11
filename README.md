@@ -16,6 +16,3 @@ Kindly, refer to the article mentioned below :
 
 https://www.linkedin.com/pulse/creating-api-graphql-springboot-mysql-database-dhruv-sahu/?published=t
 
-OR
-
-https://www.youtube.com/watch?v=wuFPIM7mIU8&t=41s
